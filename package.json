@@ -9,6 +9,7 @@
     "@eslint/js": "^10.0.1",
     "@types/node": "^26.6.5",
     "globals": "^17.13.0",
-    "obsidian": "latest"
+    "obsidian": "latest",
+    "typescript": "^6.0.3"
   }
 }
