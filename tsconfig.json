@@ -1,5 +1,6 @@
 {
   "compilerOptions": {
+    "module": "ESNext",
     "strict": true,
     "noImplicitReturns": true,
     "noFallthroughCasesInSwitch": true,
