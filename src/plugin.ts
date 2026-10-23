@@ -1,11 +1,17 @@
 import { Plugin } from 'obsidian';
-import { DEFAULT_SETTINGS, SoulSacrificeSettings } from './settings';
+import {
+  DEFAULT_SETTINGS,
+  SoulSacrificeSettings,
+  SoulSacrificeSettingTab,
+} from './settings';
 
 export default class SoulSacrificePlugin extends Plugin {
   settings!: SoulSacrificeSettings;
 
   async onload() {
     await this.loadSettings();
+
+    this.addSettingTab(new SoulSacrificeSettingTab(this.app, this));
   }
 
   onunload() {
