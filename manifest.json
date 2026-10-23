@@ -1,0 +1,11 @@
+{
+  "id": "soul-sacrifice",
+  "name": "Soul Sacrifice",
+  "version": "0.0.1",
+  "minAppVersion": "1.0.0",
+  "description": "My little toolkit for helping Claude Code and Obsidian work together.",
+  "author": "ohataken",
+  "authorUrl": "https://github.com/ohataken",
+  "fundingUrl": "https://github.com/ohataken/soul-sacrifice-obsidian-plugin",
+  "isDesktopOnly": false
+}
