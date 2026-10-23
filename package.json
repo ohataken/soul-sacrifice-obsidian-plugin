@@ -7,6 +7,7 @@
   "license": "MIT",
   "devDependencies": {
     "@types/node": "^26.6.5",
+    "globals": "^17.13.0",
     "obsidian": "latest"
   }
 }
