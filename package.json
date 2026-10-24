@@ -8,6 +8,7 @@
   "devDependencies": {
     "@eslint/js": "^10.0.1",
     "@types/node": "^26.6.5",
+    "esbuild": "0.28.2",
     "eslint": "^10.13.0",
     "globals": "^17.13.0",
     "obsidian": "latest",
