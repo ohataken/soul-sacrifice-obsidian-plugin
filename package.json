@@ -4,7 +4,8 @@
   "description": "My little toolkit for helping Claude Code and Obsidian work together.",
   "type": "module",
   "scripts": {
-    "lint": "eslint ."
+    "lint": "eslint .",
+    "typecheck": "tsc -noEmit -skipLibCheck"
   },
   "license": "MIT",
   "devDependencies": {
