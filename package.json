@@ -1,0 +1,10 @@
+{
+  "name": "soul-sacrifice-obsidian-plugin",
+  "version": "0.0.1",
+  "description": "My little toolkit for helping Claude Code and Obsidian work together.",
+  "type": "module",
+  "scripts": {},
+  "license": "MIT",
+  "devDependencies": {
+  }
+}
