@@ -5,7 +5,8 @@
   "type": "module",
   "scripts": {
     "lint": "eslint .",
-    "typecheck": "tsc -noEmit -skipLibCheck"
+    "typecheck": "tsc -noEmit -skipLibCheck",
+    "build": "node esbuild.config.mjs"
   },
   "license": "MIT",
   "devDependencies": {
