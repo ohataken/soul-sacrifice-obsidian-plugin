@@ -3,7 +3,9 @@
   "version": "0.0.1",
   "description": "My little toolkit for helping Claude Code and Obsidian work together.",
   "type": "module",
-  "scripts": {},
+  "scripts": {
+    "lint": "eslint ."
+  },
   "license": "MIT",
   "devDependencies": {
     "@eslint/js": "^10.0.1",

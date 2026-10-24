@@ -24,4 +24,9 @@ export default defineConfig(
       },
     },
   },
+  {
+    rules: {
+      '@typescript-eslint/no-empty-object-type': ['error', { allowInterfaces: 'always' }],
+    },
+  },
 );
