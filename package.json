@@ -11,6 +11,7 @@
     "eslint": "^10.13.0",
     "globals": "^17.13.0",
     "obsidian": "latest",
-    "typescript": "^6.0.3"
+    "typescript": "^6.0.3",
+    "typescript-eslint": "^8.72.0"
   }
 }
